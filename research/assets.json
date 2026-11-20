@@ -1,0 +1,314 @@
+[
+  {
+    "file": "assets/oppen-trappa.avif",
+    "source_url": "https://habotrappan.se/wp-content/uploads/2020/11/hti_307_bild.jpg",
+    "source_page": "https://habotrappan.se/bildgalleri/",
+    "source_wp_id": 542,
+    "source_title": "hti_307_bild",
+    "source_dimensions": [
+      520,
+      390
+    ],
+    "source_sha256": "c0eac98adac466c4de8430525a85670432bf30014374264d43900d4aef25cf27",
+    "sha256": "400dff899d4709c3723a9ffd97712ac95d4f268cdf43407b5a6965796bed7db5",
+    "bytes": 26383,
+    "width": 520,
+    "height": 390,
+    "provenance_type": "original-gallery-photograph",
+    "notes": "Editorial visible-feature caption, not a model name. No client/location/project scope/materialspecies asserted."
+  },
+  {
+    "file": "assets/vit-racke.avif",
+    "source_url": "https://habotrappan.se/wp-content/uploads/2020/11/hti_306_bild.jpg",
+    "source_page": "https://habotrappan.se/bildgalleri/",
+    "source_wp_id": 537,
+    "source_title": "hti_306_bild",
+    "source_dimensions": [
+      520,
+      390
+    ],
+    "source_sha256": "e3d89e67a1c84d9c3d849f92387d4fc9682923a45cb9b9015ee32a6e84dddedf",
+    "sha256": "8d7f5f31c7b55d9c8510453564c31945a2c504d9f89995ea0de909e9d336876d",
+    "bytes": 19703,
+    "width": 520,
+    "height": 390,
+    "provenance_type": "original-gallery-photograph",
+    "notes": "Editorial visible-feature caption, not a model name. No client/location/project scope/materialspecies asserted."
+  },
+  {
+    "file": "assets/svangd-trappa.avif",
+    "source_url": "https://habotrappan.se/wp-content/uploads/2020/11/hti_309_bild.jpg",
+    "source_page": "https://habotrappan.se/bildgalleri/",
+    "source_wp_id": 536,
+    "source_title": "hti_309_bild",
+    "source_dimensions": [
+      520,
+      390
+    ],
+    "source_sha256": "d314a66e52e86b1b8b9ee8309c3e38e30a33184441240a907722ac4e9b81bff2",
+    "sha256": "c962f2c65537e8f3645b61ffbe5c33626999efd57836d04f994a4a1d203e5c4f",
+    "bytes": 32563,
+    "width": 520,
+    "height": 390,
+    "provenance_type": "original-gallery-photograph",
+    "notes": "Editorial visible-feature caption, not a model name. No client/location/project scope/materialspecies asserted."
+  },
+  {
+    "file": "assets/ljus-trappa.avif",
+    "source_url": "https://habotrappan.se/wp-content/uploads/2020/11/12885950_950650758323269_2156933108197140887_o.jpg",
+    "source_page": "https://habotrappan.se/bildgalleri/",
+    "source_wp_id": 550,
+    "source_title": "12885950_950650758323269_2156933108197140887_o",
+    "source_dimensions": [
+      1229,
+      2048
+    ],
+    "source_sha256": "cd258b497ecb6738fa621b509138fc1ce903ed444a2f0766d7cd750fac658ee3",
+    "sha256": "bab74bed3dd8aff314f2c06090309db33320546cee762e482c4fb0aee03c4f8b",
+    "bytes": 310868,
+    "width": 1140,
+    "height": 1900,
+    "provenance_type": "original-gallery-photograph-higher-resolution-source-match",
+    "notes": "Editorial visible-feature caption, not a model name. No client/location/project scope/materialspecies asserted. The current gallery displays attachment562. The delivered public WordPress original attachment550 is the same photograph, visually matched including crop/content. No additional angle or project grouping inferred.",
+    "original_gallery_wp_id": 562
+  },
+  {
+    "file": "assets/kontrast-trappa.avif",
+    "source_url": "https://habotrappan.se/wp-content/uploads/2020/11/60359713_2157783507609982_7913163628663013376_o.jpg",
+    "source_page": "https://habotrappan.se/bildgalleri/",
+    "source_wp_id": 543,
+    "source_title": "60359713_2157783507609982_7913163628663013376_o",
+    "source_dimensions": [
+      1511,
+      2015
+    ],
+    "source_sha256": "adba9f5bea2ef907ff74eeaf6f32bbb3dece18fa0c0f8aec15b83ba72f278b35",
+    "sha256": "1eff6c9a340aeeb1b6d6f80bd5d423362536ba2fff0c16a40b44275cf24e9a3f",
+    "bytes": 152982,
+    "width": 1425,
+    "height": 1900,
+    "provenance_type": "original-gallery-photograph-higher-resolution-source-match",
+    "notes": "Editorial visible-feature caption, not a model name. No client/location/project scope/materialspecies asserted. The current gallery displays attachment560. The delivered public WordPress original attachment543 is the same photograph, visually matched including crop/content. No additional angle or project grouping inferred.",
+    "original_gallery_wp_id": 560
+  },
+  {
+    "file": "assets/utomhustrappa.avif",
+    "source_url": "https://habotrappan.se/wp-content/uploads/2020/11/13002536_968790556509289_4263618544934708644_o.jpg",
+    "source_page": "https://habotrappan.se/bildgalleri/",
+    "source_wp_id": 551,
+    "source_title": "13002536_968790556509289_4263618544934708644_o",
+    "source_dimensions": [
+      1444,
+      1502
+    ],
+    "source_sha256": "a131920b69defdc353542ab5068da01a5375df5ed612084435a9097b4145cfb9",
+    "sha256": "47f5143718d80130a43f8c3344bf4c5b0096c3eb5b375ebd400217576eef4475",
+    "bytes": 202786,
+    "width": 1444,
+    "height": 1502,
+    "provenance_type": "original-gallery-photograph-higher-resolution-source-match",
+    "notes": "Editorial visible-feature caption, not a model name. No client/location/project scope/materialspecies asserted. The current gallery displays attachment557. The delivered public WordPress original attachment551 is the same photograph, visually matched including crop/content. No additional angle or project grouping inferred.",
+    "original_gallery_wp_id": 557
+  },
+  {
+    "file": "assets/glas-racke.avif",
+    "source_url": "https://habotrappan.se/wp-content/uploads/2020/11/17218768_1234839819904360_7425770200262947779_o.jpg",
+    "source_page": "https://habotrappan.se/bildgalleri/",
+    "source_wp_id": 549,
+    "source_title": "17218768_1234839819904360_7425770200262947779_o",
+    "source_dimensions": [
+      1536,
+      2048
+    ],
+    "source_sha256": "85ab299d54fa7f6d954d4eb4898fa48154184e47685eec035be7ca4949ee0be6",
+    "sha256": "d1ffe61ba2192e4e89d9e712f3d50421d899ed8cbdc20cf281a80b954a646e5e",
+    "bytes": 176429,
+    "width": 1425,
+    "height": 1900,
+    "provenance_type": "original-gallery-photograph-higher-resolution-source-match",
+    "notes": "Editorial visible-feature caption, not a model name. No client/location/project scope/materialspecies asserted. The current gallery displays attachment561. The delivered public WordPress original attachment549 is the same photograph, visually matched including crop/content. No additional angle or project grouping inferred.",
+    "original_gallery_wp_id": 561
+  },
+  {
+    "file": "assets/trappa-ovanifran.avif",
+    "source_url": "https://habotrappan.se/wp-content/uploads/2020/11/16587030_1204072362981106_5326455617671065855_o.jpg",
+    "source_page": "https://habotrappan.se/bildgalleri/",
+    "source_wp_id": 555,
+    "source_title": "16587030_1204072362981106_5326455617671065855_o",
+    "source_dimensions": [
+      1536,
+      2048
+    ],
+    "source_sha256": "429ce85cbbd3a5021c8bd93df0ad54e99b230d458883efb64672569dfd7bc11f",
+    "sha256": "15b71067d73c3105ff360c4eebbd45c0d8be32e9051cf06e60a0e10f05ffa21c",
+    "bytes": 194925,
+    "width": 1425,
+    "height": 1900,
+    "provenance_type": "original-gallery-photograph-higher-resolution-source-match",
+    "notes": "Editorial visible-feature caption, not a model name. No client/location/project scope/materialspecies asserted. The current gallery displays attachment559. The delivered public WordPress original attachment555 is the same photograph, visually matched including crop/content. No additional angle or project grouping inferred.",
+    "original_gallery_wp_id": 559
+  },
+  {
+    "file": "assets/glas-detalj.avif",
+    "source_url": "https://habotrappan.se/wp-content/uploads/2020/11/13987638_1043165235738487_1364472104804298117_o.jpg",
+    "source_page": "https://habotrappan.se/bildgalleri/",
+    "source_wp_id": 553,
+    "source_title": "13987638_1043165235738487_1364472104804298117_o",
+    "source_dimensions": [
+      1229,
+      2048
+    ],
+    "source_sha256": "1d711da791e8fa39cdebb52e976d4efc052a153b7ede9fb32849b29b434a67a5",
+    "sha256": "584bc7cfa30462f3505393aad3492cb764bb3514a7d4df71313054dff8401a18",
+    "bytes": 190710,
+    "width": 1140,
+    "height": 1900,
+    "provenance_type": "original-gallery-photograph-higher-resolution-source-match",
+    "notes": "Editorial visible-feature caption, not a model name. No client/location/project scope/materialspecies asserted. The current gallery displays attachment558. The delivered public WordPress original attachment553 is the same photograph, visually matched including crop/content. No additional angle or project grouping inferred.",
+    "original_gallery_wp_id": 558
+  },
+  {
+    "file": "assets/hero.avif",
+    "source_url": "https://habotrappan.se/wp-content/uploads/2020/11/16664901_1204072679647741_3193741570583889672_o-1.jpg",
+    "source_page": "https://habotrappan.se/wp-json/wp/v2/media/556",
+    "source_wp_id": 556,
+    "source_title": "16664901_1204072679647741_3193741570583889672_o (1)",
+    "source_dimensions": [
+      1536,
+      2048
+    ],
+    "source_sha256": "c13af6ae8d2c415ed5a5725c04819534d9499dc9fc41275a6ae46f6ccca894a1",
+    "sha256": "29b1318c81ae7fd7eae647560851cc2a0de01216e67557e91b60e7c6620c1422",
+    "bytes": 115332,
+    "width": 1425,
+    "height": 1900,
+    "provenance_type": "original-site-public-media-photograph",
+    "notes": "Public source attachment, not a named customer case; visually reviewed as genuine stair photo in source stair-upload batch. No project identity/date/location assigned."
+  },
+  {
+    "file": "assets/trappsteg.avif",
+    "source_url": "https://habotrappan.se/wp-content/uploads/2020/11/trappsteg.jpg",
+    "source_page": "https://habotrappan.se/",
+    "source_wp_id": 849,
+    "source_title": "trappsteg",
+    "source_dimensions": [
+      1306,
+      701
+    ],
+    "source_sha256": "08255d293034277bf5f834df773fcd24cfcb9245309a04e8d25bf539c91ad956",
+    "sha256": "0096b61245fda16edd462e6ad75e408f7e5fb854f32ee82e1708864819e050e8",
+    "bytes": 75699,
+    "width": 1306,
+    "height": 701,
+    "provenance_type": "original-home-hero-photograph",
+    "notes": "Actual homepage background-image URL from Elementor post-5.css."
+  },
+  {
+    "file": "assets/racke-landskap.avif",
+    "source_url": "https://habotrappan.se/wp-content/uploads/2020/11/cropped-12973593_967571156631229_7114905029324255613_o.jpg",
+    "source_page": "https://habotrappan.se/wp-json/wp/v2/media/40",
+    "source_wp_id": 40,
+    "source_title": "cropped-12973593_967571156631229_7114905029324255613_o.jpg",
+    "source_dimensions": [
+      2000,
+      1200
+    ],
+    "source_sha256": "4eba3d5caf390aa7f436b2c75436aa1f55928704543cbdec679731f8f4d378ff",
+    "sha256": "89c93cfd69e2bdfd9ef28ecaab48ed69756350b975e5197bb0d1ce9b2753daed",
+    "bytes": 228948,
+    "width": 1900,
+    "height": 1140,
+    "provenance_type": "original-site-public-media-photograph",
+    "notes": "Public source attachment; same photograph as original home-media trappa1/trappahead but provided in higher-resolution source crop. No project identity assigned."
+  },
+  {
+    "file": "assets/hantverk.avif",
+    "source_url": "https://habotrappan.se/wp-content/uploads/2020/11/cropped-10999615_779957508725929_4333031039583098010_n.jpg",
+    "source_page": "https://habotrappan.se/wp-json/wp/v2/media/15",
+    "source_wp_id": 15,
+    "source_title": "cropped-10999615_779957508725929_4333031039583098010_n.jpg",
+    "source_dimensions": [
+      1920,
+      849
+    ],
+    "source_sha256": "de848f18d4c3034baab1edfe3fcac1803f7efeb6c64050bce2ce2af0609b5199",
+    "sha256": "668976690287357d61399f9f9cb71e350b790763b5dc6f69b6202cb802545f18",
+    "bytes": 150161,
+    "width": 1900,
+    "height": 840,
+    "provenance_type": "original-site-public-media-illustration",
+    "notes": "Original source media library illustration; not claimed as current workshop photo or a particular production step."
+  },
+  {
+    "file": "assets/verkstad.avif",
+    "source_url": "https://habotrappan.se/wp-content/uploads/2020/11/Lokal.jpg",
+    "source_page": "https://habotrappan.se/kontakt/",
+    "source_wp_id": 824,
+    "source_title": "Lokal",
+    "source_dimensions": [
+      700,
+      305
+    ],
+    "source_sha256": "e7ee43efa0ba8b93cfd0e86bf3d5aff2a134770b31c0598858d95cf15bcc6464",
+    "sha256": "2918405ed0089f59c97a507e7853d1e9a1002740510a8fd5e4f389755ea98e93",
+    "bytes": 14673,
+    "width": 700,
+    "height": 305,
+    "provenance_type": "original-contact-workshop-photograph",
+    "notes": "No claim about current expansion/date or photograph time."
+  },
+  {
+    "file": "assets/jan-englof.avif",
+    "source_url": "https://habotrappan.se/wp-content/uploads/2020/11/Porträtt-stor-1.jpg",
+    "source_page": "https://habotrappan.se/wp-json/wp/v2/media/119",
+    "source_wp_id": 119,
+    "source_title": "Jan Englöf",
+    "source_dimensions": [
+      700,
+      907
+    ],
+    "source_sha256": "0d1f9b6bfb09738c4e678b23d0a95a7d39573f047d0b22abd3c418bb76aa0226",
+    "sha256": "8e683304c61c6877e7811741bc612f5f4416524435623ce36258957801225389",
+    "bytes": 32057,
+    "width": 700,
+    "height": 907,
+    "provenance_type": "original-source-identified-portrait",
+    "notes": "Public WordPress attachment explicitly titled Jan Englöf, higher-resolution version of same owner portrait as current /om_oss/ image Jan.jpg. No new role or date asserted."
+  },
+  {
+    "file": "assets/trappa-hem.avif",
+    "source_url": "https://habotrappan.se/wp-content/uploads/2020/11/Trappa2.jpg",
+    "source_page": "https://habotrappan.se/",
+    "source_wp_id": 108,
+    "source_title": "Habo trappindustri",
+    "source_dimensions": [
+      1024,
+      1024
+    ],
+    "source_sha256": "a8aa682ea52975d23e81551894817b11f601641d8cce6f03af1da788cbb5e92a",
+    "sha256": "ef0441180f9e585dce142111e9bf2c8262bd75efc0667f03918aa220dcd90e9e",
+    "bytes": 55080,
+    "width": 1024,
+    "height": 1024,
+    "provenance_type": "original-home-photograph",
+    "notes": "Actual homepage image Trappa2.jpg, no project name assigned."
+  },
+  {
+    "file": "assets/logo.jpg",
+    "source_url": "https://habotrappan.se/wp-content/uploads/2020/11/logga-original.jpg",
+    "source_page": "https://habotrappan.se/",
+    "source_wp_id": 773,
+    "source_title": "Habo trappindustri",
+    "source_dimensions": [
+      585,
+      60
+    ],
+    "source_sha256": "e6d9af77faac8981612e2385dedf38cfb3080381e10f2832fc4f1b1ed33497e3",
+    "sha256": "e6d9af77faac8981612e2385dedf38cfb3080381e10f2832fc4f1b1ed33497e3",
+    "bytes": 12713,
+    "width": 585,
+    "height": 60,
+    "provenance_type": "original-opaque-jpeg-logo",
+    "notes": "Original bytes preserved unchanged, including white background. No transparent source variant found in public WordPress media. Do not label this file transparent. CSS blend/mask treatment may render the native mark on selected backgrounds without editing source pixels."
+  }
+]

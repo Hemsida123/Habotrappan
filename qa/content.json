@@ -1,0 +1,152 @@
+{
+  "company": {
+    "name": "Habotrappan",
+    "legal": "Habo Trappindustri",
+    "legal_form": "Enskild näringsverksamhet",
+    "person": "Jan Englöf",
+    "owner": "Jan Englöf",
+    "phone": "036-407 61",
+    "tel": "+463640761",
+    "mobile": "070-278 33 24",
+    "mobile_tel": "+46702783324",
+    "email": "jan.englof@telia.com",
+    "address": "Elektrikergatan 8, 566 33 Habo",
+    "street": "Elektrikergatan 8",
+    "postcode": "566 33",
+    "city": "Habo",
+    "workshop_area": "Stora Kärrs industriområde",
+    "facebook": "https://www.facebook.com/habotrappindustri/",
+    "source_url": "https://habotrappan.se/kontakt/"
+  },
+  "about": {
+    "heading": "Ett familjehantverk. En trappa för dig.",
+    "intro": "Habotrappan är Habo Trappindustri, ett familjeföretag med rötter i Axel Svenssons snickeri från 1927. I dag drivs verksamheten av Jan Englöf, tredje generationens trappsnickare.",
+    "paragraphs": [
+      "År 1960 blev trapptillverkningen företagets huvudsakliga inriktning och namnet Habo Trappindustri tog form. Sedan dess har den kundanpassade trappan stått i centrum.",
+      "Tillverkningen finns på Stora Kärrs industriområde i Habo. Här förenas snickeriets erfarenhet med moderna maskiner.",
+      "Vi bygger trappor för privata hem, företag och offentliga miljöer. Utrymmet, sammanhanget och dina önskemål blir utgångspunkten för en trappa som passar projektet."
+    ],
+    "source_url": "https://habotrappan.se/om_oss/"
+  },
+  "services": [
+    {
+      "id": "bostader",
+      "title": "Trappor för hem",
+      "summary": "En kundanpassad trappa med utgångspunkt i ditt hem och dina önskemål.",
+      "paragraphs": [
+        "En trappa tar plats i hemmet, både i rummet och i vardagen. Vi bygger trappor efter det enskilda projektets behov.",
+        "Berätta om utrymmet och vad du vill förändra eller skapa. Bilder, en ritning och ungefärliga mått hjälper oss att förstå dina tankar.",
+        "Låt gärna galleriet bli början på samtalet. Tillsammans går vi vidare med vad som kan passa just ditt hem."
+      ],
+      "bullets": [
+        "För privata bostäder",
+        "Utifrån utrymme och önskemål",
+        "Kundanpassad trapptillverkning"
+      ],
+      "source_url": "https://habotrappan.se/"
+    },
+    {
+      "id": "foretag",
+      "title": "Trappor för företag",
+      "summary": "Trappor som tar form efter verksamheten och den miljö de ska bli en del av.",
+      "paragraphs": [
+        "Vi tillverkar trappor även för företag. Varje miljö ger sitt eget sammanhang för form och användning.",
+        "Kontakta oss med en beskrivning av verksamheten, platsen och projektets omfattning. Finns ritningar eller bilder är de ett bra underlag.",
+        "Det fortsatta arbetet börjar med att vi går igenom vad du behöver och vilka förutsättningar som finns."
+      ],
+      "bullets": [
+        "För företagsmiljöer",
+        "Dialog om projektets behov",
+        "Tillverkning i Habo"
+      ],
+      "source_url": "https://habotrappan.se/"
+    },
+    {
+      "id": "offentligamiljoer",
+      "title": "Trappor för offentliga miljöer",
+      "summary": "Kundanpassade trappor för ett sammanhang där många människor möts.",
+      "paragraphs": [
+        "Habotrappan bygger trappor för offentliga miljöer. Projektets användning och förutsättningar behöver vara tydliga redan i samtalet.",
+        "Skicka gärna projektunderlag och beskriv miljön där trappan ska finnas. Vi går igenom önskemålen tillsammans med dig.",
+        "Vi går igenom utformningen och uppdragets omfattning för det enskilda projektet."
+      ],
+      "bullets": [
+        "För offentliga miljöer",
+        "Utifrån projektets underlag",
+        "Kundanpassad utformning"
+      ],
+      "source_url": "https://habotrappan.se/"
+    }
+  ],
+  "process": [
+    {
+      "title": "Berätta om platsen",
+      "text": "Beskriv var trappan ska finnas och vad du har i tankarna. Bilder eller en ritning kan hjälpa oss att förstå helheten."
+    },
+    {
+      "title": "Gå igenom underlaget",
+      "text": "Vi pratar om önskemål, utrymme och projektets förutsättningar. Mått, utformning och uppdragets omfattning behöver stämmas av."
+    },
+    {
+      "title": "Låt trappan ta form",
+      "text": "När förutsättningarna är tydliga kan vi prata vidare om en kundanpassad trappa för ditt projekt och vad nästa steg innebär."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Bygger ni trappor för både hem och verksamheter?",
+      "a": "Ja. Habotrappan tillverkar trappor för privatpersoner, företag och offentliga miljöer."
+    },
+    {
+      "q": "Kan trappan anpassas efter mitt projekt?",
+      "a": "Ja, den kundanpassade trappan är företagets inriktning. Berätta om utrymmet och dina önskemål så går vi igenom förutsättningarna."
+    },
+    {
+      "q": "Vad är bra att skicka med i en förfrågan?",
+      "a": "Beskriv projektet och miljön. Bilder, en ritning och ungefärliga mått hjälper oss att förstå dina tankar. Du kan bifoga underlaget i ett mejl till jan.englof@telia.com."
+    },
+    {
+      "q": "Var finns verkstaden?",
+      "a": "Verkstaden ligger på Elektrikergatan 8, 566 33 Habo, på Stora Kärrs industriområde. Kontakta Jan om du vill stämma av ett besök."
+    },
+    {
+      "q": "Vad kostar en ny trappa?",
+      "a": "Priset behöver bedömas utifrån den trappa du vill ha och projektets omfattning. Skicka ditt underlag så pratar vi vidare."
+    },
+    {
+      "q": "Hur skickas förfrågan från den här sidan?",
+      "a": "Formuläret förbereder ett mejlutkast i ditt eget mejlprogram. Du granskar, bifogar eventuella bilder eller ritningar och skickar själv. Ingenting skickas automatiskt och ingen beställning görs via formuläret."
+    }
+  ],
+  "history": [
+    {
+      "year": "1927",
+      "title": "Snickeriet tar sin början",
+      "text": "Axel Svensson grundar den snickeriverksamhet som företagets familjehistoria utgår från."
+    },
+    {
+      "year": "1960",
+      "title": "Trappan får huvudrollen",
+      "text": "Namnet blir Habo Trappindustri och tillverkningen inriktas framför allt på trappor, vid sidan av finsnickeri."
+    },
+    {
+      "year": "I dag",
+      "title": "Tredje generationens hantverk",
+      "text": "Jan Englöf äger och driver verksamheten. Tillverkningen sker i Habo med hjälp av moderna maskiner."
+    }
+  ],
+  "privacy": {
+    "paragraphs": [
+      "Den här versionen har inget anslutet formulärsystem. Uppgifterna du skriver används för att förbereda ett mejlutkast till jan.englof@telia.com. Du granskar och skickar själv från ditt mejlprogram.",
+      "Formulärtexten finns bara i den öppna sidan och sparas inte i webbläsarens lokala lagring. Bilder och typsnitt ingår i filpaketet. Sidan använder ingen analys, annonsering eller inbäddad karta.",
+      "När du följer en extern länk eller skickar ett mejl använder du den tjänstens funktioner. Frågor om en skickad förfrågan kan ställas direkt till Habo Trappindustri."
+    ]
+  },
+  "notes": {
+    "history_scope": "1927 och1960 är verksamhetens självrapporterade familjehistoria, inte den nuvarande enskilda firmans registreringsår.",
+    "identity_scope": "Habo Trappindustri är offentligt verksamhetsnamn. Jan Englöf är ägare enligt originalsidan. Ingen AB-form eller organisationsnummer publiceras.",
+    "service_scope": "Tre verksamhetsområden kommer från originalets uttryckliga kundgrupper, inte nya produktmodeller. Processen är en redaktionell förfrågningsguide, inte ett verifierat löfte om mätning, konstruktion, leverans eller montering.",
+    "contact_form_scope": "Originalets kontaktsida har telefon/mejl/adress och karta men inget förfrågningsformulär. Redesignens formulär är en ny lokal mejlutkastfunktion med namn, mejl och meddelande; telefon valfritt.",
+    "excluded": "Inga påhittade trappmodeller, exakta material, tekniska mått, certifieringar, myndighetskrav, materiallager, priser, leveranstider, garantiutfästelser eller recensioner."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "checked": "2026-11-20",
+  "source_pages": [
+    "https://habotrappan.se/",
+    "https://habotrappan.se/om_oss/",
+    "https://habotrappan.se/kontakt/",
+    "https://habotrappan.se/bildgalleri/"
+  ],
+  "company": {
+    "name": "Habotrappan",
+    "legal": "Habo Trappindustri",
+    "legal_form": "Enskild näringsverksamhet",
+    "person": "Jan Englöf",
+    "owner": "Jan Englöf",
+    "phone": "036-407 61",
+    "tel": "+463640761",
+    "mobile": "070-278 33 24",
+    "mobile_tel": "+46702783324",
+    "email": "jan.englof@telia.com",
+    "address": "Elektrikergatan 8, 566 33 Habo",
+    "street": "Elektrikergatan 8",
+    "postcode": "566 33",
+    "city": "Habo",
+    "workshop_area": "Stora Kärrs industriområde",
+    "facebook": "https://www.facebook.com/habotrappindustri/",
+    "source_url": "https://habotrappan.se/kontakt/"
+  },
+  "verified_claims": [
+    {
+      "claim": "Familjeverksamhet grundad1927avAxelSvensson",
+      "source": "https://habotrappan.se/om_oss/",
+      "limit": "Familjehistoria, inte nuvarandeenskildfirmaregistrering."
+    },
+    {
+      "claim": "HaboTrappindustrinamn ochtrappinriktning1960",
+      "source": "https://habotrappan.se/om_oss/",
+      "limit": "Självrapporteradhistoria; ingetuppdateratjuridiskregistreringsdatum."
+    },
+    {
+      "claim": "JanEnglöfägare/drivande ochtredjegenerationtrappsnickrare",
+      "source": "https://habotrappan.se/om_oss/"
+    },
+    {
+      "claim": "Tillverkning medmodernamaskiner påStoraKärrsindustriområde iHabo",
+      "source": "https://habotrappan.se/om_oss/",
+      "limit": "Originaletsnyutbyggtlokalärinteöverfört somaktuellnybyggnadsuppgift."
+    },
+    {
+      "claim": "Trapporförprivatpersoner,företag,offentligmiljö",
+      "source": "https://habotrappan.se/"
+    },
+    {
+      "claim": "Telefoner/mejl/verkstadsadress",
+      "source": "https://habotrappan.se/kontakt/"
+    }
+  ],
+  "independent_identity": {
+    "trading_name": "Habo Trappindustri",
+    "owner": "Jan Englöf",
+    "legal_form": "Enskild näringsverksamhet",
+    "sources": [
+      "https://www.hitta.se/verksamhet/habo-trappindustri-nvhaooqst",
+      "https://www.bolagsfakta.se/630117YFZZ-Englof%2C_Jan"
+    ],
+    "limits": "Hitta kopplar verksamhetsnamnet till Jan och samma offentliga verkstad. Bolagsfakta-sökresultat anger enskild näringsidkare registrerad2001-02-16; direkt sidöppning misslyckades. Organummer utelämnas eftersom det rör personligfirma och inte behövs för denna presentationsfil. Ingen privatbostadsadress publiceras."
+  },
+  "original_pages_have_no_named_stair_models": true,
+  "original_pages_have_no_named_client_cases": true,
+  "original_contact_has_form": false,
+  "editorial_new_content": [
+    "Tre kundgruppsvyer",
+    "Förfrågningsguide",
+    "FAQ",
+    "Integritetstext för faktisk lokal mejlutkastfunktion"
+  ],
+  "excluded_claims": "Inga påhittade trappmodeller, exakta material, tekniska mått, certifieringar, myndighetskrav, materiallager, priser, leveranstider, garantiutfästelser eller recensioner.",
+  "unknowns": [
+    "Exakt aktuell företagsregistreringens fullständiga organisationsnummer publiceras inte.",
+    "Öppettider och besöksrutiner framgår inte.",
+    "Serviceområde/leveransområde, uppmätning och montering framgår inte.",
+    "Exakta träslag, finishalternativ, dimensioner och standardmodeller framgår inte av sidtexterna.",
+    "Fasta pris- eller leveranslöften saknas."
+  ],
+  "artifact_behavior": "Ingen extern formulärserver, ingen automatisk sändning eller order. Inga cookies/analytics/localStorage/embeds. Uppgifterna bara i öppen sida; användaren skickar mejlet själv."
+}
